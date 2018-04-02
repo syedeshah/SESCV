@@ -1,2 +1,2 @@
 # SESCV
-Personal version of public CV classes
+Personal version of public Resume classes
